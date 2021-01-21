@@ -33,7 +33,9 @@ Library is provided with project `badtest` to test and show library usage.
 ### Links
 
 [LICENSE.md](https://github.com/masscry/badval/blob/master/LICENSE.md)
+
 [badval.hpp](https://github.com/masscry/badval/blob/master/include/badval.hpp)
+
 [badtest.cpp](https://github.com/masscry/badval/blob/master/test/badtest.cpp)
 
 ### Contact 
